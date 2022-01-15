@@ -1,1 +1,1 @@
-# DS5010_InClassAssignments
+Python Programming In-Class Assignments
